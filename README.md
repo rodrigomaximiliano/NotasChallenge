@@ -23,13 +23,9 @@ Tecnologías utilizadas :
 Ejecución
 
 Para iniciar el servidor backend, ejecuta:
-
 bash
-
 cd backend
 npm start
-----
-
 
 ---- FRONTEND------
 
@@ -42,7 +38,6 @@ Instalación
 Para instalar las dependencias del frontend, ejecuta:
 
 bash
-
 cd frontend
 npm install
 
@@ -52,11 +47,9 @@ Tecnologías utilizadas
   Bootstrap (v5.3.3): Framework de diseño CSS.
 
 Ejecución
-
 Para iniciar el servidor de desarrollo del frontend, ejecuta:
 
 bash
-
 cd frontend
 npm start
 
