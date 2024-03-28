@@ -1,6 +1,6 @@
-Notes App - Challengue para la entrevista técnica de la Empresa Ensolvers -
+ Challengue para la entrevista técnica de la Empresa Ensolvers - Notes App -
 
-Este proyecto consta de una aplicación de backend y una interfaz de usuario de frontend para tomar notas.
+Este proyecto consta de una aplicación de backend y una interfaz de usuario de frontend para crear notas, editarlas, eliminarlas, archivarlas y filtrarlas por categorias.
 
 BACKEND 
  Requisitos
