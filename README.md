@@ -1,8 +1,8 @@
- Challengue para la entrevista técnica de la Empresa Ensolvers - Notes App -
+# Challengue para la entrevista técnica de la Empresa Ensolvers - Notes App -
 
 Este proyecto consta de una aplicación de backend y una interfaz de usuario de frontend para crear notas, editarlas, eliminarlas, archivarlas y filtrarlas por categorias.
 
-BACKEND 
+#BACKEND 
  Requisitos
 
 - Node.js (>= 14.17.0)
@@ -20,14 +20,11 @@ Tecnologías utilizadas :
   ElephantSQL: Adaptador de base de datos como servicio para PostgreSQL.
   Express (v4.18.3): Framework web para Node.js.
 
-Ejecución
-
 Para iniciar el servidor backend, ejecuta:
-bash
 cd backend
 npm start
 
----- FRONTEND------
+#FRONTEND
 
 Requisitos
    Node.js (>= 14.17.0)
@@ -36,20 +33,15 @@ Requisitos
 Instalación
 
 Para instalar las dependencias del frontend, ejecuta:
-
-bash
 cd frontend
 npm install
 
-Tecnologías utilizadas
-
-  React (v18.2.0): Biblioteca de JavaScript para construir interfaces de usuario.
-  Bootstrap (v5.3.3): Framework de diseño CSS.
+Tecnologías utilizadas:
+ React (v18.2.0)
+ Bootstrap (v5.3.3)
 
 Ejecución
 Para iniciar el servidor de desarrollo del frontend, ejecuta:
-
-bash
 cd frontend
 npm start
 
