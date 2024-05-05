@@ -1,8 +1,10 @@
-# Challengue  entrevista técnica de la Empresa Ensolvers - Notes App -
+# Challengue entrevista técnica de la Empresa Ensolvers
+
+# Notas App
 
 Este proyecto consta de una aplicación de backend y una interfaz de usuario de frontend para crear notas, editarlas, eliminarlas, archivarlas y filtrarlas por categorias.
 
-#BACKEND 
+# BACKEND 
  Requisitos
 
 - Node.js (>= 14.17.0)
@@ -24,7 +26,7 @@ Para iniciar el servidor backend, ejecuta:
 cd backend
 npm start
 
-#FRONTEND
+# FRONTEND
 
 Requisitos
    Node.js (>= 14.17.0)
